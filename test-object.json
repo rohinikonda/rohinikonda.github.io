@@ -1,0 +1,8 @@
+{
+  "favicon_generation_result": {
+    "result": {
+      "status": "error",
+      "error_message": "<img src=x onerror=alert(document.domain)>"
+    }
+  }
+}
